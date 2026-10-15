@@ -25,6 +25,7 @@ The project focuses on analyzing customer behavior and building predictive model
    The dataset is used to analyze shopping behavior and build Machine Learning models that predict whether an online shopping session will lead to a purchase.
 
    Dataset Source: UCI Machine Learning Repository
+   📌 **Dataset Source:** [UCI Machine Learning Repository]      (https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
 
 ---
 
@@ -85,8 +86,8 @@ This project demonstrates how Machine Learning can be applied to e-commerce data
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
+- Colab Notebook
 
 ---
 
-📌 **Dataset Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
+
