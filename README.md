@@ -6,7 +6,12 @@ An end-to-end Machine Learning project that aims to predict online shoppers' pur
 
 The project focuses on analyzing customer behavior and building predictive models to identify whether an online shopping session is likely to result in a purchase.
 
----
+🎥 Demo Video
+
+📺 Watch the project in action:
+
+🔗 Demo / Presentation
+ [![Watch Project Video](https://img.shields.io/badge/▶%20Watch%20Project%20Video-Google%20Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1oLoBetstM_BcAXPnTQAuYbtpZyKtVXKR/view?usp=sharing)
 
 ## 📂 1. Dataset
 
