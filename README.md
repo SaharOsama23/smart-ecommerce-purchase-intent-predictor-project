@@ -12,6 +12,9 @@ The project focuses on analyzing customer behavior and building predictive model
 
 🔗 Demo / Presentation
  [![Watch Project Video](https://img.shields.io/badge/▶%20Watch%20Project%20Video-Google%20Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1oLoBetstM_BcAXPnTQAuYbtpZyKtVXKR/view?usp=sharing)
+ 
+# proposal_pdf
+[![View Proposal PDF](https://img.shields.io/badge/📄%20View%20Proposal%20PDF-GitHub-red?style=for-the-badge&logo=adobeacrobat-reader)](Smart-E-Commerce%20Proposal.pdf)
 
 ## 📂 1. Dataset
 
